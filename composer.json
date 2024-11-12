@@ -1,0 +1,7 @@
+{
+    "require": {
+        "adnanhussainturki/microsoft-api-php": "^0.04.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
